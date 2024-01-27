@@ -1,0 +1,183 @@
+*{box-sizing: border-box;}
+
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:  rgb(215, 16, 26);
+    }
+
+
+.quiz-app-top{
+    margin: 20px auto;
+    width: 800px;
+    background-color: #f8f8f8;
+    padding: 15px;
+    text-align: center;
+    }
+
+
+
+#mainNav {
+        min-height: 3.5rem;
+        background-color: #f70404;
+    }
+
+
+.quiz-app{
+    margin: 20px auto;
+    width: 800px;
+    background-color: #a14646;
+    padding: 15px;
+    }
+
+
+.quiz-app .quiz-info{
+    display: flex;
+    background-color: #731414;
+    padding: 20px;
+    }
+
+
+.quiz-app .quiz-info .category{
+    flex: 1;
+    color: white;
+}
+
+
+.quiz-app .quiz-info .count{
+    flex: 1;
+    text-align: right;
+    color: white;
+    }
+
+
+.quiz-app .quiz-area{
+    background-color: #fff;
+    padding: 20px ;
+    margin-top: 15px;
+    }
+
+
+.quiz-app .quiz-area h2{
+    margin: 0;
+    text-align: center;
+    }
+
+
+.quiz-app .answer-area{
+    padding: 20px;
+    background-color: #826868;
+    }
+
+.quiz-app .answer-area .answer{
+    background-color: #f9f9f9;
+    padding: 15px;
+    }
+
+
+.quiz-app .answer-area .answer:not(:last-child){
+    border-bottom: 1px solid #dfdfdf;
+    }
+
+
+.quiz-app .answer-area .answer input[type="Raddio"]:checked + label{
+    background-color: #ecf310;
+    }
+
+
+.quiz-app .answer-area .answer label{
+    color: #777;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 5px;
+    position: relative;
+    top: -1px;
+    }
+
+
+
+.quiz-app .submit-button{
+    cursor: pointer;
+    background-color: #3610f3;
+    display: block;
+    width: 70%;
+    padding: 15px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 6px;
+    margin: 20px auto;
+    visibility: hidden;
+    }
+
+
+.quiz-app .begin-button{
+    cursor: pointer;
+    background-color: #3610f3;
+    display: block;
+    width: 70%;
+    padding: 15px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 6px;
+    margin: 20px auto;
+}
+
+
+.quiz-app .submit-button:focus{
+    outline: none;
+    }
+
+
+.quiz-app .bullets{
+    border-top: 1px solid #dfdfdf;
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    }
+
+
+.quiz-app .bullets .spans{
+    flex: 1;
+    display: flex;
+    }
+
+
+.quiz-app .bullets .spans span{
+    width: 20px;
+    height: 20px;
+    background-color: #ddd;
+    margin-right: 5px;
+    border-radius: 50%;
+    }
+
+
+
+.quiz-app .bullets .spans span.on{
+    background-color: #3610f3;
+    }
+
+
+.quiz-app .results span{
+    font-weight: bold;
+    }
+
+
+.quiz-app .results span.bad{
+    color: #dc0a0a;
+    }
+
+
+.quiz-app .results span.good{
+    color: #009688;
+    }
+ 
+
+.quiz-app .results span.perfect{
+    color: #0075ff;
+    }
+

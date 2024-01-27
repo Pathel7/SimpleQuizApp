@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Quelle est la capitale de la Bolivie",
+        "answer_1": "Prague",
+        "answer_2": "La Paz",
+        "answer_3": "Tegucygalpa",
+        "answer_4": "Sofia",
+        "right_answer": "La Paz"
+    },
+
+    {
+        "title": "Quel pays d'Afrique a pour capital 'Banjul'",
+        "answer_1": "Zambie",
+        "answer_2": "Tanzanie",
+        "answer_3": "Gambie",
+        "answer_4": "Namibie",
+        "right_answer": "Gambie"
+    },
+
+    {
+        "title": "l'un des pays ci-après se trouve dans l'Afrique australe",
+        "answer_1": "Somalie",
+        "answer_2": "Kenya",
+        "answer_3": "Tchad",
+        "answer_4": "Lesotho",
+        "right_answer": "Lesotho"
+    },
+
+    {
+        "title": "cet endroi est connu comme l'endroit le plus profond du globe",
+        "answer_1": "fosses des os",
+        "answer_2": "fosse des mariannes",
+        "answer_3": "fosses des marguerittes",
+        "answer_4": "fosse du diable",
+        "right_answer": "fosse des mariannes"
+    },
+
+    {
+        "title": "l'un des animaux suivants est surnommé le cheval des mers",
+        "answer_1": "hippopotame",
+        "answer_2": "meduse",
+        "answer_3": "hippocampe",
+        "answer_4": "otarie",
+        "right_answer": "hippocampe"
+    },
+
+    {
+        "title": "l'un des termes ci-après designe la peur excessive de tomber malade",
+        "answer_1": "maladiephobie",
+        "answer_2": "microphobie",
+        "answer_3": "nosophobie",
+        "answer_4": "potophobie",
+        "right_answer": "nosophobie"
+    },
+
+    {
+        "title": "Le traité de Maastricht a donné naissance à:",
+        "answer_1": "l'union européenne",
+        "answer_2": "l'union africaine",
+        "answer_3": "l'union des ameriques et des caraibes",
+        "answer_4": "l'union de l'asie et du pacifique",
+        "right_answer": "l'union européenne"
+    },
+
+    {
+        "title": "Comment s'appelle la première femme à aller dans l'espace?",
+        "answer_1": "Enola Gay",
+        "answer_2": "Valentina Terechkova",
+        "answer_3": "Lynda Parks",
+        "answer_4": "Yuri gagarine",
+        "right_answer": "Valentina Terechkova"
+    },
+
+    {
+        "title": "Quel nom porte les fruits du baobab africain?",
+        "answer_1": "pains",
+        "answer_2": "fruits eternels",
+        "answer_3": "pains des anges",
+        "answer_4": "pains des singes",
+        "right_answer": "pains des singes"
+    },
+
+    {
+        "title": "Qu'est-ce qu'étudie un hématologue?",
+        "answer_1": "le foie",
+        "answer_2": "le sang",
+        "answer_3": "le suc digestif",
+        "answer_4": "l'estomac",
+        "right_answer": "le sang"
+    }
+    
+]
